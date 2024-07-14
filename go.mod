@@ -1,4 +1,4 @@
-module github.com/minhthinh27/oneship-common-module-golang
+module github.com/thinh2k2004/1ship-common-module-golang
 
 go 1.20
 
